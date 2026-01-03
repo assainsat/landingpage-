@@ -1,0 +1,7 @@
+{
+  "name": "Origin & Roast - Artisanal Coffee Collective",
+  "description": "A community-driven coffee shop experience where patrons share their stories, photos, and ideas for the next great brew.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
